@@ -1,0 +1,18 @@
+div {
+    background: black;
+    padding: 7px;
+    padding-left: 0;
+    
+    text-align: center;
+    text-align: justify;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+    background: red;
+    padding: 7px;
+}
+a:hover {
+    background : green;
+}
